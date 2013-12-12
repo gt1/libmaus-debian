@@ -1,3 +1,9 @@
+libmaus (0.0.94) unstable; urgency=low
+
+  * add methods for mate pair information fixing in BamAlignment class 
+
+ -- German Tischler <gt1@sanger.ac.uk>  Thu, 12 Dec 2013 15:55:49 +0000
+
 libmaus (0.0.93) unstable; urgency=low
 
   * fix compilation 
