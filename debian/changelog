@@ -1,3 +1,9 @@
+libmaus (0.0.100) unstable; urgency=low
+
+  * use new compressed stream infrastructre in BamEntryContainer 
+
+ -- German Tischler <gt1@sanger.ac.uk>  Tue, 11 Feb 2014 15:49:40 +0000
+
 libmaus (0.0.99) unstable; urgency=low
 
   * improve handling of empty bgzf blocks 
