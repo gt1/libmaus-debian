@@ -1,3 +1,9 @@
+libmaus (0.0.101) unstable; urgency=low
+
+  * API extension in BamAuxFilterVector class 
+
+ -- German Tischler <gt1@sanger.ac.uk>  Tue, 11 Feb 2014 19:27:50 +0000
+
 libmaus (0.0.100) unstable; urgency=low
 
   * use new compressed stream infrastructre in BamEntryContainer 
