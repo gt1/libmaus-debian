@@ -1,3 +1,9 @@
+libmaus (0.0.104) unstable; urgency=low
+
+  * add meta information in BAM indexing 
+
+ -- German Tischler <gt1@sanger.ac.uk>  Fri, 21 Feb 2014 09:15:16 +0000
+
 libmaus (0.0.103) unstable; urgency=low
 
   * fixes for linear part of BAM indexing
