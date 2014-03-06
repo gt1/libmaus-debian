@@ -1,3 +1,10 @@
+libmaus (0.0.106) unstable; urgency=low
+
+  * add pseudo random access bgzf input stream 
+  * make posix fd based input stream seekable
+
+ -- German Tischler <gt1@sanger.ac.uk>  Thu, 06 Mar 2014 13:58:25 +0000
+
 libmaus (0.0.105) unstable; urgency=low
 
   * add computation of MD/NM aux fields for BamAlignment 
