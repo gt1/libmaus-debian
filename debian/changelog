@@ -1,3 +1,9 @@
+libmaus (0.0.107) unstable; urgency=low
+
+  * added gap array variant using one byte per index plus overflow buffer 
+
+ -- German Tischler <gt1@sanger.ac.uk>  Tue, 18 Mar 2014 09:46:19 +0000
+
 libmaus (0.0.106) unstable; urgency=low
 
   * add pseudo random access bgzf input stream 
