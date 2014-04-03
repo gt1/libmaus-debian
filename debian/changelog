@@ -1,3 +1,10 @@
+libmaus (0.0.110) unstable; urgency=low
+
+  * bug/warning fixes
+  * add number formatting function in ArgInfo class 
+
+ -- German Tischler <gt1@sanger.ac.uk>  Thu, 03 Apr 2014 13:55:42 +0100
+
 libmaus (0.0.109) unstable; urgency=low
 
   * add simplified thread pool
