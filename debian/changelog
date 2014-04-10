@@ -1,3 +1,10 @@
+libmaus (0.0.111) unstable; urgency=low
+
+  * add RAZF file format decoder
+  * add FastA (.fai) index decoder
+
+ -- German Tischler <gt1@sanger.ac.uk>  Thu, 10 Apr 2014 17:52:17 +0100
+
 libmaus (0.0.110) unstable; urgency=low
 
   * bug/warning fixes
