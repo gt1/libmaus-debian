@@ -1,3 +1,9 @@
+libmaus (0.0.113) unstable; urgency=low
+
+  * fix compilation on Darwin 
+
+ -- German Tischler <gt1@sanger.ac.uk>  Mon, 14 Apr 2014 21:58:04 +0100
+
 libmaus (0.0.112) unstable; urgency=low
 
   * fix compilation without optimisation flags 
