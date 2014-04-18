@@ -1,3 +1,11 @@
+libmaus (0.0.114) unstable; urgency=medium
+
+  * import CRC32 code by Stephan Brumme
+  * avoid excessive amount of flush operations while creating wavelet tree for large alphabet RLE data
+  * extend BamAlignmentDecoderBase API for with method for outputting original quality instead of quality field when converting to FastQ
+
+ -- German Tischler <gt1@sanger.ac.uk>  Fri, 18 Apr 2014 21:14:21 +0100
+
 libmaus (0.0.113) unstable; urgency=low
 
   * fix compilation on Darwin 
