@@ -1,3 +1,9 @@
+libmaus (0.0.119) unstable; urgency=low
+
+  * add subrange decoding support for cram through io_lib 
+
+ -- German Tischler <gt1@sanger.ac.uk>  Tue, 06 May 2014 16:41:15 +0100
+
 libmaus (0.0.118) unstable; urgency=low
 
   * update bam validation to allow annotation lines in bam file input 
