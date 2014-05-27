@@ -1,3 +1,9 @@
+libmaus (0.0.126) unstable; urgency=low
+
+  * add methods for getting front and back soft clipping of an alignment 
+
+ -- German Tischler <gt1@sanger.ac.uk>  Tue, 27 May 2014 19:01:28 +0100
+
 libmaus (0.0.125) unstable; urgency=low
 
   * add method for removing SQ lines fro a BAM header 
