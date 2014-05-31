@@ -1,3 +1,9 @@
+libmaus (0.0.127) unstable; urgency=low
+
+  * implement streaming mode for bam concatenation 
+
+ -- German Tischler <gt1@sanger.ac.uk>  Sat, 31 May 2014 17:11:49 +0100
+
 libmaus (0.0.126) unstable; urgency=low
 
   * add methods for getting front and back soft clipping of an alignment 
