@@ -1,3 +1,11 @@
+libmaus (0.0.128) unstable; urgency=low
+
+  * add check for 128 bit integers
+  * add compressed HWT based LF variant
+  * fix compilation on gcc 4.1.2 
+
+ -- German Tischler <gt1@sanger.ac.uk>  Thu, 05 Jun 2014 09:30:27 +0100
+
 libmaus (0.0.127) unstable; urgency=low
 
   * implement streaming mode for bam concatenation 
