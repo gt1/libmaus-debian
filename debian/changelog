@@ -1,3 +1,19 @@
+libmaus (0.0.130) unstable; urgency=low
+
+  * add test for pthread_setaffinity_np (instead of checking for linux)
+  * fix compilation for big endian systems
+  * do not attempt to build scram decoder if dl functions are missing
+  * add soft clipping read extraction methods in BamAlignment class
+  * add sub range extraction for indexed FastA
+  * improve LCS computation
+  * support non standard locations for zlib
+  * add option for disabling AIO classes
+  * add support for igzip in bgzf compression
+  * add run-time checks for various instruction sets
+  * improve help messages
+
+ -- German Tischler <gt1@sanger.ac.uk>  Tue, 17 Jun 2014 14:07:33 +0100
+
 libmaus (0.0.129) unstable; urgency=medium
 
   * modifications for compilation using glibc < 2.6 
