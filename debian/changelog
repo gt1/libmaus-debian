@@ -1,3 +1,9 @@
+libmaus (0.0.131) unstable; urgency=low
+
+  * fix compilation of alignment construction variant in BamWriter 
+
+ -- German Tischler <gt1@sanger.ac.uk>  Tue, 24 Jun 2014 09:43:04 +0100
+
 libmaus (0.0.130) unstable; urgency=low
 
   * add test for pthread_setaffinity_np (instead of checking for linux)
