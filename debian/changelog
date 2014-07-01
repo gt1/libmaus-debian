@@ -1,3 +1,9 @@
+libmaus (0.0.133) unstable; urgency=low
+
+  * reduce memory usage in Chromosome class 
+
+ -- German Tischler <gt1@sanger.ac.uk>  Tue, 01 Jul 2014 23:31:28 +0100
+
 libmaus (0.0.132) unstable; urgency=low
 
   * add BamHeaderLowMem class 
