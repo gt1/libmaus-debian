@@ -1,3 +1,9 @@
+libmaus (0.0.132) unstable; urgency=low
+
+  * add BamHeaderLowMem class 
+
+ -- German Tischler <gt1@sanger.ac.uk>  Tue, 01 Jul 2014 12:43:11 +0100
+
 libmaus (0.0.131) unstable; urgency=low
 
   * fix compilation of alignment construction variant in BamWriter 
