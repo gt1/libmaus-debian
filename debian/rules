@@ -1,5 +1,6 @@
 #!/usr/bin/make -f
 export DH_VERBOSE=1
+DEB_HOST_MULTIARCH ?= $(shell dpkg-architecture -qDEB_HOST_MULTIARCH)
 
 %:
 	dh $@ --with autoreconf	--parallel
