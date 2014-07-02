@@ -1,3 +1,9 @@
+libmaus (0.0.134) unstable; urgency=low
+
+  * change exec flags in packaging 
+
+ -- German Tischler <gt1@sanger.ac.uk>  Wed, 02 Jul 2014 08:36:08 +0100
+
 libmaus (0.0.133) unstable; urgency=low
 
   * reduce memory usage in Chromosome class 
