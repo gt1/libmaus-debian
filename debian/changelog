@@ -1,3 +1,9 @@
+libmaus (0.0.138) unstable; urgency=medium
+
+  * fix eof detection in HttpBody class 
+
+ -- German Tischler <gt1@sanger.ac.uk>  Sun, 06 Jul 2014 20:15:53 +0100
+
 libmaus (0.0.137) unstable; urgency=low
 
   * add url (http/https/ftp/file) input stream classes
