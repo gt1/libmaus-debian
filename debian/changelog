@@ -1,3 +1,10 @@
+libmaus (0.0.137) unstable; urgency=low
+
+  * add url (http/https/ftp/file) input stream classes
+  * fix putback region in PosixFdInputStreamBuffer
+
+ -- German Tischler <gt1@sanger.ac.uk>  Sun, 06 Jul 2014 19:59:18 +0100
+
 libmaus (0.0.136) unstable; urgency=low
 
   * added GeneFlatFile class
