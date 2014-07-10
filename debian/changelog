@@ -1,3 +1,10 @@
+libmaus (0.0.143) unstable; urgency=low
+
+  * avoid failing the merging state of collation due to too many open files
+    by merging through a single file handle if required
+
+ -- German Tischler <gt1@sanger.ac.uk>  Thu, 10 Jul 2014 16:51:39 +0100
+
 libmaus (0.0.142) unstable; urgency=low
 
   * add sbam input format in alignment decoder factory (bam input via io_lib) 
