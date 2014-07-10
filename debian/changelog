@@ -1,3 +1,9 @@
+libmaus (0.0.142) unstable; urgency=low
+
+  * add sbam input format in alignment decoder factory (bam input via io_lib) 
+
+ -- German Tischler <gt1@sanger.ac.uk>  Thu, 10 Jul 2014 09:28:20 +0100
+
 libmaus (0.0.141) unstable; urgency=low
 
   * fix cram writer instantiation in factory class 
